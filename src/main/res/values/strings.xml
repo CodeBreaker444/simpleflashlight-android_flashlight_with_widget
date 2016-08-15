@@ -1,0 +1,11 @@
+<resources xmlns:https="http://schemas.android.com/tools">
+    <string name="app_name">Simple Flashlight</string>
+    <string name="Title"><font color='blue'> About Developer</font></string>
+    <string name="Message">Developer:CodeBreaker\n\nCheckout My Other Apps <a href="https://play.google.com/store/apps/developer?id=Codebreaker">Here</a>\n\nContact:<a> zeroerror.444@gmail.com"</a>\n\nMy Page:<a href="https://facebook.com/zer0error">ClickHere</a></string>
+    <string name="banner_ad_unit_id">ca-app-pub-3701378466050774/9448928040
+</string>
+
+    <string name="interstitial_full_screen">ca-app-pub-3701378466050774/5158329249/</string>
+    <string name="no_flash">Sorry,your device doesnt have Flash</string>
+
+</resources>
