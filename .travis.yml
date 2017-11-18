@@ -10,4 +10,4 @@ android:
     - extra-android-m2repository
     - extra-google-m2repository
 
-script: ./gradlew build
+script: chomd +x ./gradlew build
