@@ -1,5 +1,5 @@
 
-# Simple Flashlight with Homescreen Widget
+# Simple Flashlight with Homescreen Widget  ![](https://travis-ci.org/CodeBreaker444/simpleflashlight-android_flashlight_with_widget.svg?branch=master)
 A complete FlashLight app with a Home Screen Widget.Resources Have Included.Directly Pulled from Android Studio Project with out any Changes.
 `Note: Includes Admob code just replace your publisher Id`
 ## Stuff that Is USED:
