@@ -22,6 +22,6 @@ Donations Help Me to Keep The Support and Development: [Click Here](https://payp
 
 FollowMe: [Click Here](https://facebook.com/zer0error/).
 
-PlayStore Link-[WhatsRooting](https://play.google.com/store/apps/details?id=codebreaker.cbflashlight&hl=en).
+PlayStore Link-[SimpleFlashlight](https://play.google.com/store/apps/details?id=codebreaker.cbflashlight&hl=en).
 
 Website: [StarTech](http://cbstartech.com).
